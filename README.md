@@ -27,7 +27,7 @@ _Ferramentas utilizadas:_
 - Orientação a Objetos
 
 **Meus sites:**
-> _Site para testar a prova:_ https://lucianoandre.dev.br/codegroup
+> _Site para testar a prova:_ https://lucianoandre.dev.br
 >
 > _Linkedin:_ https://www.linkedin.com/in/luciano-andr%C3%A9-3a6b2818a/
 >
